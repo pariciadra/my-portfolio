@@ -1,0 +1,20 @@
+markdown pour personnaliser les textes, ajouter des images etc...
+
+lancer un gatsby develop pour lancer le serveur en local
+changer les modifs et elles apparaissent en direct
+
+push sur le git pour voir les modifs on line
+
+pour ajouter son cv :
+
+    - ajouter le .pdf dans static
+    - ajouter une petite commande pour que le pdf apparaisse
+
+mdx :
+    ajouter du contenu
+
+A FAIRE  :
+
+- Ajouter son cv et description
+- Ajouter des diapo de projets réaliser
+
